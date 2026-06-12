@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="OhVenic" target="_blank">
+  <a href="https://discord.com/users/ohvenic" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/noah-velickovic-6a62821aa/" target="_blank">
@@ -48,7 +48,7 @@
   <a href="https://www.instagram.com/noahvck_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="noah.velic@hotmail.com" target="_blank">
+  <a href="mailto:noah.velic@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
