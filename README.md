@@ -1,15 +1,18 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! I'm Noah, a Fullstack Developer from Austria turning coffee into code and bugs into features ☕💻</h2>
+
+
+
+
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NoahVelickovic/NoahVelickovic/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/NoahVelickovic/NoahVelickovic/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="left">My current Tech stack</h3>
+<h3 align="left">My current Tech stack🧰</h3>
 
 ###
 
@@ -52,11 +55,14 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me👨‍💻</h3>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Hello World! 👋 I'm a passionate coder 💻 who loves turning ideas into real projects and learning something new along the way 🚀. When I'm not sitting in front of my code, you’ll probably find me gaming 🎮, working out 🏋️, running 🏃, or trying out a new sport. I enjoy challenging myself, staying active, and always improving — both as a developer and as a person 🌱.</p>
+
+
+
 
 ###
 
