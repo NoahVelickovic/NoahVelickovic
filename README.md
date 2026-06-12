@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">My current Tech stack🧰</h3>
+<h3 align="left">My current Tech stack 🧰</h3>
 
 ###
 
@@ -55,11 +55,11 @@
 
 ###
 
-<h3 align="left">About me👨‍💻</h3>
+<h3 align="left">About me 👨‍💻</h3>
 
 ###
 
-<p align="left">Hello World! 👋 I'm a passionate coder 💻 who loves turning ideas into real projects and learning something new along the way 🚀. When I'm not sitting in front of my code, you’ll probably find me gaming 🎮, working out 🏋️, running 🏃, or trying out a new sport. I enjoy challenging myself, staying active, and always improving — both as a developer and as a person 🌱.</p>
+<p align="left">I'm a passionate coder 💻 who loves turning ideas into real projects and learning something new along the way 🚀. When I'm not sitting in front of my code, you’ll probably find me gaming 🎮, working out 🏋️, running 🏃, or trying out a new sport. I enjoy challenging myself, staying active, and always improving — both as a developer and as a person 🌱.</p>
 
 
 
